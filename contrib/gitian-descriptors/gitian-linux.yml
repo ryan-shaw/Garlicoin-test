@@ -1,8 +1,9 @@
 ---
-name: "garlicoin-linux-0.17"
+name: "garlicoin-linux"
 enable_cache: true
+distro: "linux"
 suites:
-- "trusty"
+- "buster"
 architectures:
 - "amd64"
 packages:
