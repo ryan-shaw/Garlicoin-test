@@ -2,7 +2,7 @@
 name: "garlicoin-linux"
 enable_cache: true
 suites:
-- "trusty"
+- "focal"
 architectures:
 - "amd64"
 packages:
